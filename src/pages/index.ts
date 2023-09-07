@@ -7,3 +7,4 @@ export {PageChange} from './changepassword'
 export {registrationPage} from './registration'
 export {Pagelist} from './listpage'
 export {PageChangeMain} from './change'
+
